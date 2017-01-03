@@ -16,6 +16,10 @@ allprojects {
     repositories {
         jcenter()
     }
+
+    project.ext {
+        ankoVersion="0.8.2"
+    }
 }
 
 task clean(type: Delete) {
