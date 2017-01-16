@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="imgProfile" type="id">imgCProfile</item>
+    <item name="rcView" type="id">rcView</item>
+    <item name="txtRc" type="id">txtRc</item>
+</resources>

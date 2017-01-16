@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">SebastianCV</string>
+    <string name="imgTransition">imgCircleTransition</string>
+    <string name="say_hello">Say Hello</string>
 </resources>
