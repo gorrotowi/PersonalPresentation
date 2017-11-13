@@ -43,6 +43,7 @@ class MainActivity : AppCompatActivity() {
 
         val adapter = AdapterProjects(items)
         rcProfileProjects.adapter = adapter
+        // 🤔
 
         txtProfilePosition.text = Html.fromHtml("Mobile Leader at <u>Chilangolabs</u>")
 
