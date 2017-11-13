@@ -2,4 +2,7 @@
     <string name="app_name">SebastianCV</string>
     <string name="imgTransition">imgCircleTransition</string>
     <string name="say_hello">Say Hello</string>
+    <string name="lorem_quote">\"No, you clearly don\'t know who you\'re talking to, so let me clue you in. I am not in danger, Skyler. I AM the danger!\"</string>
+    <string name="location_city">Mexico City</string>
+    <string name="sebastian_mail">sebastian@chilangolabs.com</string>
 </resources>
