@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/PersonalPresentation.iml" filepath="$PROJECT_DIR$/PersonalPresentation.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2135652951/PersonalPresentation.iml" filepath="$PROJECT_DIR$/.idea/modules/-2135652951/PersonalPresentation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file:///Volumes/TowiHD/Repos/PersonalPresentation/app/app.iml" filepath="/Volumes/TowiHD/Repos/PersonalPresentation/app/app.iml" />
     </modules>
   </component>
